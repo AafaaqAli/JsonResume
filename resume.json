@@ -1,0 +1,358 @@
+{
+    "meta": {
+        "theme": "actual"
+    },
+    "basics": {
+        "name": "Aafaq Ali",
+        "label": "Sr. Android Engineer",
+        "image": "https://user-images.githubusercontent.com/21982416/230728857-63d17e95-faec-4ac5-bfbd-51da7b15baff.png",
+        "summary": "As a results-driven and highly skilled Sr. Android Engineer, my extensive experience in mobile app development has equipped me with the knowledge and expertise necessary to create top-performing Android applications. With a proven track record of delivering innovative and scalable solutions that meet business objectives, I am committed to staying ahead of emerging trends and technologies to ensure the highest level of quality and user experience.",
+        "website": "https://aafaq.com.pk",
+        "email": "aafaq@msn.com",
+        "phone": "+92 31 3713004",
+        "location": {
+            "city": "Islamabad",
+            "countryCode": "PK"
+        },
+        "profiles": [
+            {
+                "username": "Aafaqale",
+                "url": "https://twitter.com/Aafaqale",
+                "network": "twitter"
+            },
+            {
+                "url": "https://github.com/AafaaqAli",
+                "username": "AafaaqAli",
+                "network": "github"
+            }
+        ]
+    },
+
+    "education": [
+        {
+            "startDate": "2016-12-12",
+            "endDate": "2020-12-12",
+            "area": "Bachelor of Computer Science.",
+            "studyType": "Bachelor",
+            "institution": "Preson University"
+        },
+        {
+            "startDate": "2013-12-12",
+            "endDate": "2016-12-12",
+            "area": "Pre Engineering",
+            "studyType": "Intermediate - Pre-Engineering.",
+            "institution": "Ghazi University"
+        },
+        {
+            "startDate": "2010-02-12",
+            "endDate": "2012-12-12",
+            "area": "Matriculated with a major in Biology.",
+            "studyType": "Matriculation",
+            "institution": "GCHHS"
+        }
+    ],
+    "references": [
+        {
+            "reference": "I would highly recommend Aafaq as an Android developer. He has a strong understanding of the Android platform and is skilled in using the latest tools and technologies to develop innovative and high-quality mobile applications. He is a quick learner and is always looking for ways to improve his skills and stay up-to-date on the latest developments in the field. \nI have had the pleasure of working with Aafaq on several projects as his manager. He has consistently impressed me with his attention to detail, problem-solving skills, and ability to deliver results on time. He is a team player and is able to collaborate effectively with cross-functional teams to ensure that projects are completed successfully.\nI have no doubt that Aafaq will be an asset to any organization and I highly recommend him for any Android development opportunity.",
+            "name": "Laeeq Reham, Co-founder and CEO of LEED, PVT.LTD."
+        },
+        {
+            "reference": "Working with Ali has been great! He’s always very responsive, thoughtful, and fun to work with. His positive attitude in the workplace and general excellence in developing truly powerful technical solutions has helped him stand out as an excellent developer to have on our team! He has contributed so much at Techless and with a humble spirit!",
+            "name": "Nicholas Burgher, Product Designer, Techless."
+        },
+        {
+            "reference": "Aafaq is very passionate about his work and has an incredible eye for his work. He is not only a multi-skilled and insightful colleague, but also an inspiring person.",
+            "name": "Zainab Zahra, Sr. HR Lead, Embrace IT."
+        },
+        {
+            "reference": "I am pleased to introduce you to Afaq Ali, a talented software developer and engineer. He has a wealth of experience in developing software applications, coding, and creating databases for various businesses.\nAfaq Ali is an asset to any project due to his ability to understand new technologies quickly and debug complex problems efficiently. He is highly organized and pays attention to detail in order to deliver high-quality work on time. Afaq is also an excellent communicator, who can explain complex concepts in a straightforward manner.\nWe are confident that Afaq skillset will add tremendous value to your organization. Please do not hesitate to reach out if you have any questions or wish to discuss the opportunity further.",
+            "name": "Ali Usman, Test Specialist, IBM."
+        },
+        {
+            "reference": "Ali is an excellent Software Engineer. I had the pleasure of working with him. His ability to work through the crisis and develop new ways to achieve the targets was always inspiring. I am delighted to work and learn with such professionals.",
+            "name": "Beenish Tariq, Project Manager, Developers Studio."
+        },
+        {
+            "reference": "Aafaq is a key player on the team, I have worked with him on some of the freelance projects and it's been truly amazing how productive and professional he is in his work.\nHighly recommended, he is an asset to any company.",
+            "name": "Muhammad Bilal, CTO, AppTrick."
+        }
+    ],
+    "skills": [
+        {
+            "keywords": [
+                "Kotlin / Java",
+                "XML",
+                "Jetpack Compose"
+            ],
+            "level": "Senior",
+            "name": "Android"
+        },
+        {
+            "keywords": [
+                "Kotlin",
+                "Swift",
+                "Swift UI",
+                "XCode", 
+                "Android Studio"
+            ],
+            "level": "Mid-Senior",
+            "name": "KMM"
+        },
+        {
+            "keywords": [
+                "Swift",
+                "Swift UI",
+                "XCode"
+            ],
+            "level": "Mid-Junior",
+            "name": "IOS"
+        },
+        {
+            "keywords": [
+                "Spring Boot",
+                "Postgres",
+                "Mongo",
+                "Redis"
+            ],
+            "level": "Mid-Senior",
+            "name": "Backend"
+        },
+        {
+            "keywords": [
+                "AWS",
+                "Azure",
+                "Docker",
+                "Kubernetes",
+                "Heroku"
+            ],
+            "level": "Junior",
+            "name": "Devops"
+        },
+        {
+            "keywords": [
+                "GitLab CI/CD",
+                "AWS CodePipeline",
+                "Jenkins",
+                "CircleCI",
+                "Travis CI"
+            ],
+            "level": "Senior",
+            "name": "CI/CD"
+        },
+        {
+            "keywords": [
+                "HTML",
+                "SCSS / CSS",
+                "Javascript / Typescript"
+            ],
+            "level": "Mid-Senior",
+            "name": "Frontend"
+        },
+        {
+            "keywords": [
+                "Test-driven development (TDD)",
+                "Trunk-based development",
+                "Continuous integration and continuous delivery (CI/CD)",
+                "Behavior-driven development (BDD)"
+            ],
+            "level": "Senior",
+            "name": "Development techniques"
+        },
+        {
+            "keywords": [
+                "Retrofit",
+                 "Moshi", 
+                 "Dagger/Dagger2", 
+                 "Hilt", 
+                 "Room", 
+                 "LiveData", 
+                 "coroutines", 
+                 "LeakCannery", 
+                 "Flipper", 
+                 "Stetho", 
+                 "Lombok", 
+                 "Timber"
+            ],
+            "level": "Senior",
+            "name": "Libraries"
+        },
+        {
+            "keywords": [
+                "Clean Code",
+                "MVVM",
+                "MVP",
+                "MVC",
+                "Redux"
+            ],
+            "level": "Senior",
+            "name": "Architecture"
+        },
+        {
+            "keywords": [
+                "Builder",
+                "Singleton",
+                "Dependency Injection",
+                "Repository",
+                "Observer",
+                "Facade"
+            ],
+            "level": "Senior",
+            "name": "Design Pattern"
+        },
+        {
+            "keywords": [
+                "Figma",
+                "Zeplin"
+            ],
+            "level": "Senior",
+            "name": "Designing"
+        },
+        {
+            "keywords": [
+                "Gerrit",
+                "GitHub",
+                "Bitbucket"
+            ],
+            "level": "Senior",
+            "name": "Collaboration"
+        }
+    ],
+    "awards": [
+        {
+            "title": "ICPC (  Provisional Programming Contest )",
+            "awarder": "Placed 3rd in The International Collegiate Programming Contest, inspiring innovation and collaboration for college teams solving real-world problems under pressure."
+        },
+        {
+            "title": "INNOVATIA 19 ( Android Application Development ) ",
+            "awarder": "I was the runner-up in a programming contest at COMSAT, completing a task within a set time frame. The contest evaluated different sections, such as UI, architecture, standard syntax, and programming practices, with corresponding points."
+        },
+        {
+            "title": "INNOVATIA 19 ( Speed Programming Championship) ",
+            "awarder": "I was the speed programming contest runner-up, completing tasks with speed and accuracy within a limited time frame."
+        },
+        {
+            "title": "PSDF Software Dev Certification",
+            "awarder": "The government initiated Android app development workshops in institutes lasting 2-6 months, emphasizing practical programming best practices."
+        }
+    ],
+    "work": [
+        {
+            "summary": "Cloud Enterprise Business Solutions (CEBS) (Pvt.) Ltd. has been providing top-notch IT and development services since 2011 to clients around the world. As soon as I joined the team, I played a key role in expanding the ClubMatas which already had 100K+ installs on PlayStore - Android. Today, I continue to hone my skills and strive for excellence with each task I undertake.",
+            "website": "http://www.cebs.io",
+            "name": "Cloud Enterprise Business Solutions ( CEBS | Matas )",
+            "location": "Islamabad",
+            "position": "Android Engineer",
+            "startDate": "2022-09-05",
+            "highlights": [
+                "Worked on ClubMatas.",
+                "Collaborated with E-Commerce teams.",
+                "Worked on .NET backend.",
+                "Spring Boot."
+            ]
+        },
+        {
+            "summary": "A Texas-based startup selling minimalist smartphones (Wisephone) to families for reducing digital destruction, with 2k+ clients in the US and actively growing. I was part of the core Techless development team in Pakistan, which consisted of 20+ amazing developers. Here I created and maintained WisePhone (AOSP) along with system apps such as a launcher, phone, clock, and many more.",
+            "website": "https://techless.com/",
+            "name": "Techless",
+            "location": "Islamabad",
+            "position": "Sr. Android & AOSP Engineer",
+            "startDate": "2020-12-01",
+            "endDate": "2022-09-01",
+            "highlights": [
+                "Worked on Android Enterprise.",
+                "Created WiseOS based on LineageOS (AOSP).",
+                "Worked with Device Policy manager.",
+                "MQTT.",
+                "Figma for UX work."
+            ]
+        },
+        {
+            "summary": "A Pakistan-based company that specializes in Android applications, With a focus on quality and user experience, One of the company's core strengths is its expertise in App Store Optimization (ASO), By leveraging a deep understanding of the App Store ecosystem and user behavior CUBICODES helps its clients get the most out of their apps and reach a wider audience, Right after joining I worked and completed a few apps that touched 7K+ installs.",
+            "website": "https://cubicodes.com/",
+            "pinned": true,
+            "name": "CUBICODES",
+            "location": "Islamabad",
+            "position": "Sr. Android Engineer",
+            "startDate": "2020-08-01",
+            "endDate": "2020-12-01",
+            "highlights": [
+                "Created a few Utility apps that touched 7K+ installs.",
+                "Worked with PlayStore.",
+                "Worked with AdMob.",
+                "Closely looked at and improved the ASO process."
+            ]
+        },
+        {
+            "pinned": true,
+            "summary": "Grithx, a Pakistan-based company, is renowned for its child company ZTHosting, and top clients such as Patari and Lahore Qalandars. I started my journey at Grithx as an Android Engineer, where I was able to quickly progress and gain experience working on a variety of projects. During my one-year tenure, I contributed to the success of high-profile projects like Patari, as well as many others.",
+            "website": "https://grithx.com/",
+            "name": "Grithx Solutions",
+            "location": "Islamabad",
+            "position": "Android Engineer",
+            "startDate": "2019-09-08",
+            "endDate": "2020-08-01",
+            "highlights": [
+                "Worked on Patari with 100K+ installs.",
+                "Worked on backend technologies.",
+                "Collaborated with external teams.",
+                "WordPress and created custom integrations with Android."
+            ]
+        },
+        {
+            "summary": "During my time at university, I started freelancing which provided me with valuable experience and improved my presentation and client-handling skills. These skills have proven beneficial in various aspects of my life and continue to assist me to this day.",
+            "location": "Islamabad",
+            "name": "Upwork - Self Employed ",
+            "position": "Software Engineer",
+            "startDate": "2018-09-01",
+            "endDate": "2020-07-01",
+            "highlights": [
+                "Developed numerous Android applications and solutions for a variety of clients.",
+                "Created and worked on Enterprise Mobility Development kit EMDK for Android.",
+                "Consultation services for AOSP development.",
+                "Worked on IOT projects.",
+                "Worked on GARMIN devices."
+            ]
+        },
+        {
+            "summary": "I began my journey as a Linux Bash scripter and swiftly developed a deep understanding of GARMIN, Android, and iOS. I found a particular passion for Android and Linux, which ultimately led me to become a professional AOSP developer for a period of time.",
+            "name": "GitHub - Open Source Contributor",
+            "location": "Islamabad",
+            "position": "Software Engineer",
+            "startDate": "2017-01-08",
+            "highlights": [
+                "Actively contributed in eXtern-OS.",
+                "Worked on a few IOT projects using NodeMCU.",
+                "Worked on Android Wear/TV apps.",
+                "Worked on Flutter apps in initial phases..",
+                "Worked on Garmin."
+            ]
+        }
+    ],
+    "interests": [
+        {
+            "name": "E-Sports"
+        },
+        {
+            "name": "YouTube Content Creation"
+        },
+        {
+            "name": "Open Source Contribution"
+        },
+        {
+            "name": "Reading / Writing"
+        }
+    ],
+
+    "languages": [
+        {
+            "language": "English"
+        },
+        {
+            "language": "Norwegian"
+        },
+        {
+            "language": "Urdu"
+        }
+    ]
+
+}
