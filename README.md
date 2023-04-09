@@ -51,6 +51,25 @@ Congratulations, you've made it!
 
 __The theme development can now begin.__
 
+### Export
+- one time in resume directory only 
+
+```
+npm install jsonresume-theme-kendall
+```
+
+To Export in HTML
+```
+resume export resume.html --theme ./node_modules/jsonresume-theme-kendall
+
+```
+
+To Export in PDF
+```
+resume export resume.pdf --theme ./node_modules/jsonresume-theme-kendall
+
+```
+
 ## Tips
 
 As of now, the theme supports the following profiles in the basics.profiles array.
