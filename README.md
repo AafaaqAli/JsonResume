@@ -58,13 +58,13 @@ __The theme development can now begin.__
 npm install jsonresume-theme-kendall
 ```
 
-To Export in HTML
+- To Export in HTML
 ```
 resume export resume.html --theme ./node_modules/jsonresume-theme-kendall
 
 ```
 
-To Export in PDF
+- To Export in PDF
 ```
 resume export resume.pdf --theme ./node_modules/jsonresume-theme-kendall
 
