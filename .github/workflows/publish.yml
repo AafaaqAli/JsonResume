@@ -26,7 +26,7 @@ jobs:
           theme: kendall
           resume_filepath: resume.json
           # modifies the index.html in-place
-          output_filepath: docs/index.html
+          output_filepath: docs/readme.html
       - name: Commit published HTML
         id: commit
         run: |
