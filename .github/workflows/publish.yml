@@ -1,10 +1,12 @@
-# example GitHub workflow
-
 name: Publish resume in JSONResume format as Github Page
- 
+
+# Controls when the action will run. 
 on:
   push:
     branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
 jobs:
   check_run:
@@ -29,7 +31,7 @@ jobs:
         id: commit
         run: |
           git config --local user.email "aafaq@msn.com"
-          git config --local user.name "AafaaqAli"
+          git config --local user.name "Aafaq Ali"
           if [ -n "$(git status --porcelain docs/index.html)" ]; then
             git add docs/index.html
             git commit -m "[ci skip] chore(docs/index.html): update resume page"

@@ -1,30 +1,20 @@
 {
-  "name": "jsonresume-theme-kendall",
-  "version": "0.2.0",
-  "description": "A JSON Resume theme built with bootstrap",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "M. Adam Kendall",
-  "license": "MIT",
-  "dependencies": {
-    "gravatar": "^1.0.6",
-    "jsonresume-theme-kendall": "^0.2.0",
-    "lodash": "^4.17.20",
-    "mustache": "^2.2.1"
-  },
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Kelvin Tay's resume in JSONResume format",
   "repository": {
     "type": "git",
-    "url": "https://github.com/linuxbozo/jsonresume-theme-kendall.git"
+    "url": "git+https://github.com/kelvintaywl/resume.git"
   },
   "keywords": [
-    "json",
     "jsonresume",
-    "theme"
+    "resume",
+    "developer"
   ],
-  "bugs": {
-    "url": "https://github.com/linuxbozo/jsonresume-theme-kendall/issues"
-  },
-  "homepage": "https://github.com/linuxbozo/jsonresume-theme-kendall"
+  "author": "kelvintaywl@gmail.com",
+  "homepage": "https://github.com/kelvintaywl/resume#readme",
+  "devDependencies": {
+    "jsonresume-theme-standard-resume": "^1.3.0",
+    "resume-cli": "^3.0.3"
+  }
 }
