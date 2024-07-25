@@ -1,13 +1,14 @@
 {
     "meta": {
-        "theme": "ken"
+        "theme": "kendall"
     },
     "basics": {
+        "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
         "name": "Aafaq Ali",
         "label": "Sr. Android Engineer",
         "image": "https://user-images.githubusercontent.com/21982416/230728857-63d17e95-faec-4ac5-bfbd-51da7b15baff.png",
         "summary": "As a results-driven and highly skilled Sr. Android Engineer, my extensive experience in mobile app development has equipped me with the knowledge and expertise necessary to create top-performing Android applications. With a proven track record of delivering innovative and scalable solutions that meet business objectives, I am committed to staying ahead of emerging trends and technologies to ensure the highest level of quality and user experience.",
-        "website": "https://aafaq.com.pk",
+        "url": "https://aafaq.com.pk",
         "email": "aafaq@msn.com",
         "phone": "+92 312 3713004",
         "location": {
@@ -244,7 +245,7 @@
     "work": [
         {
             "summary": "VentureDive is a technology solutions company that leverages technology and human ingenuity to deliver outstanding results. Upon joining VentureDive, I took on the responsibility of leading a team of exceptionally talented engineers. Through dedicated mentorship and guidance, I helped them excel in all aspects, ensuring that we met VentureDive's high standards and consistently delivered quality products to our clients.",
-            "website": "https://www.venturedive.com/",
+            "url": "https://www.venturedive.com/",
             "name": "VentureDive",
             "location": "Remote",
             "position": "Sr. Android Engineer | Team Lead",
@@ -259,7 +260,7 @@
         
         {
             "summary": "Cloud Enterprise Business Solutions (CEBS) (Pvt.) Ltd. has been providing top-notch IT and development services since 2011 to clients around the world. As soon as I joined the team, I played a key role in expanding the ClubMatas which already had 100K+ installs on PlayStore - Android. Today, I continue to hone my skills and strive for excellence with each task I undertake.",
-            "website": "http://www.cebs.io",
+            "url": "http://www.cebs.io",
             "name": "Cloud Enterprise Business Solutions ( CEBS | Matas )",
             "location": "Islamabad",
             "position": "Android Engineer",
@@ -275,7 +276,7 @@
         
         {
             "summary": "A Texas-based startup selling minimalist smartphones (Wisephone) to families for reducing digital destruction, with 2k+ clients in the US and actively growing. I was part of the core Techless development team in Pakistan, which consisted of 20+ amazing developers. Here I created and maintained WisePhone (AOSP) along with system apps such as a launcher, phone, clock, and many more.",
-            "website": "https://techless.com/",
+            "url": "https://techless.com/",
             "name": "Techless",
             "location": "Islamabad",
             "position": "Sr. Android & AOSP Engineer",
@@ -292,7 +293,7 @@
         
         {
             "summary": "A Pakistan-based company that specializes in Android applications, With a focus on quality and user experience, One of the company's core strengths is its expertise in App Store Optimization (ASO), By leveraging a deep understanding of the App Store ecosystem and user behavior CUBICODES helps its clients get the most out of their apps and reach a wider audience, Right after joining I worked and completed a few apps that touched 7K+ installs.",
-            "website": "https://cubicodes.com/",
+            "url": "https://cubicodes.com/",
             "name": "CUBICODES",
             "location": "Islamabad",
             "position": "Sr. Android Engineer",
@@ -308,7 +309,7 @@
         
         {
             "summary": "Grithx, a Pakistan-based company, is renowned for its child company ZTHosting, and top clients such as Patari and Lahore Qalandars. I started my journey at Grithx as an Android Engineer, where I was able to quickly progress and gain experience working on a variety of projects. During my one-year tenure, I contributed to the success of high-profile projects like Patari, as well as many others.",
-            "website": "https://grithx.com/",
+            "url": "https://grithx.com/",
             "name": "Grithx Solutions",
             "location": "Islamabad",
             "position": "Android Engineer",
