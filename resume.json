@@ -1,6 +1,6 @@
 {
     "meta": {
-        "theme": "actual"
+        "theme": "ken"
     },
     "basics": {
         "name": "Aafaq Ali",
@@ -14,6 +14,7 @@
             "city": "Islamabad",
             "countryCode": "PK"
         },
+
 
         "profiles": [
             {
@@ -292,7 +293,6 @@
         {
             "summary": "A Pakistan-based company that specializes in Android applications, With a focus on quality and user experience, One of the company's core strengths is its expertise in App Store Optimization (ASO), By leveraging a deep understanding of the App Store ecosystem and user behavior CUBICODES helps its clients get the most out of their apps and reach a wider audience, Right after joining I worked and completed a few apps that touched 7K+ installs.",
             "website": "https://cubicodes.com/",
-            "pinned": true,
             "name": "CUBICODES",
             "location": "Islamabad",
             "position": "Sr. Android Engineer",
@@ -307,7 +307,6 @@
         },
         
         {
-            "pinned": true,
             "summary": "Grithx, a Pakistan-based company, is renowned for its child company ZTHosting, and top clients such as Patari and Lahore Qalandars. I started my journey at Grithx as an Android Engineer, where I was able to quickly progress and gain experience working on a variety of projects. During my one-year tenure, I contributed to the success of high-profile projects like Patari, as well as many others.",
             "website": "https://grithx.com/",
             "name": "Grithx Solutions",

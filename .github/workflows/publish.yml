@@ -40,7 +40,7 @@ jobs:
             echo ::set-output name=exit_code::1
           fi
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@main
         if: steps.commit.outputs.exit_code == 0
         with:
           github_token: ${{ secrets.GH_TOKEN }}
