@@ -19,6 +19,11 @@
 
         "profiles": [
             {
+            	"username": "aafaqali",
+            	"url": "https://www.linkedin.com/in/",
+            	"network": "linkedin"
+            },
+            {
                 "username": "Aafaqale",
                 "url": "https://x.com/Aafaqale",
                 "network": "twitter"
@@ -359,16 +364,13 @@
     ],
     "interests": [
         {
-            "name": "E-Sports"
-        },
-        {
-            "name": "YouTube Content Creation"
-        },
-        {
             "name": "Open Source Contribution"
         },
         {
             "name": "Reading / Writing"
+        },
+        {
+            "name": "E-Sports"
         }
     ],
 
