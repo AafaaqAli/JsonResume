@@ -14,6 +14,7 @@
             "city": "Islamabad",
             "countryCode": "PK"
         },
+
         "profiles": [
             {
                 "username": "Aafaqale",
@@ -83,7 +84,7 @@
                 "Kotlin / Java",
                 "Jetpack Compose",
                 "Kotlin Multiplatform Mobile(KMM)",
-                "XML",
+                "XML"
             ],
             "level": "Senior",
             "name": "Android"
