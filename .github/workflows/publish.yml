@@ -1,12 +1,10 @@
-name: Publish resume in JSONResume format as Github Page
+# example GitHub workflow
 
-# Controls when the action will run. 
+name: Publish resume in JSONResume format as Github Page
+ 
 on:
   push:
     branches: [ main ]
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
 
 jobs:
   check_run:
@@ -20,10 +18,10 @@ jobs:
     needs: check_run
     steps:
       - uses: actions/checkout@v2
-      - uses: kelvintaywl/action-jsonresume-export@v1
+      - uses: constructorfleet/action-jsonresume-export@v1.0
         name: Export resume as HTML
         with:
-          theme: standard-resume
+          theme: Kendall
           resume_filepath: resume.json
           # modifies the index.html in-place
           output_filepath: docs/index.html
