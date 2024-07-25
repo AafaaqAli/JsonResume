@@ -9,7 +9,7 @@
         "summary": "As a results-driven and highly skilled Sr. Android Engineer, my extensive experience in mobile app development has equipped me with the knowledge and expertise necessary to create top-performing Android applications. With a proven track record of delivering innovative and scalable solutions that meet business objectives, I am committed to staying ahead of emerging trends and technologies to ensure the highest level of quality and user experience.",
         "website": "https://aafaq.com.pk",
         "email": "aafaq@msn.com",
-        "phone": "+92 31 3713004",
+        "phone": "+92 312 3713004",
         "location": {
             "city": "Islamabad",
             "countryCode": "PK"
@@ -17,8 +17,8 @@
         "profiles": [
             {
                 "username": "Aafaqale",
-                "url": "https://twitter.com/Aafaqale",
-                "network": "twitter"
+                "url": "https://x.com/Aafaqale",
+                "network": "X"
             },
             {
                 "url": "https://github.com/AafaaqAli",
@@ -81,8 +81,9 @@
         {
             "keywords": [
                 "Kotlin / Java",
+                "Jetpack Compose",
+                "Kotlin Multiplatform Mobile(KMM)",
                 "XML",
-                "Jetpack Compose"
             ],
             "level": "Senior",
             "name": "Android"
@@ -162,7 +163,10 @@
             "keywords": [
                 "Retrofit",
                  "Moshi", 
-                 "Dagger/Dagger2", 
+                 "MockK",
+                 "Anvil",
+                 "Maestro",
+                 "Dagger/Dagger2",
                  "Hilt", 
                  "Room", 
                  "LiveData", 
@@ -237,6 +241,21 @@
     ],
     "work": [
         {
+            "summary": "VentureDive is a technology solutions company that leverages technology and human ingenuity to deliver outstanding results. Upon joining VentureDive, I took on the responsibility of leading a team of exceptionally talented engineers. Through dedicated mentorship and guidance, I helped them excel in all aspects, ensuring that we met VentureDive's high standards and consistently delivered quality products to our clients.",
+            "website": "https://www.venturedive.com/",
+            "name": "VentureDive",
+            "location": "Remote",
+            "position": "Sr. Android Engineer | Team Lead",
+            "startDate": "2023-9-28",
+            "highlights": [
+                "Worked on CXApp",
+                "Leading a team of talented Engineers",
+                "Collaborated with cross-platform teams.",
+                "Worked on multi-client project"
+            ]
+        },
+        
+        {
             "summary": "Cloud Enterprise Business Solutions (CEBS) (Pvt.) Ltd. has been providing top-notch IT and development services since 2011 to clients around the world. As soon as I joined the team, I played a key role in expanding the ClubMatas which already had 100K+ installs on PlayStore - Android. Today, I continue to hone my skills and strive for excellence with each task I undertake.",
             "website": "http://www.cebs.io",
             "name": "Cloud Enterprise Business Solutions ( CEBS | Matas )",
@@ -250,6 +269,7 @@
                 "Spring Boot."
             ]
         },
+        
         {
             "summary": "A Texas-based startup selling minimalist smartphones (Wisephone) to families for reducing digital destruction, with 2k+ clients in the US and actively growing. I was part of the core Techless development team in Pakistan, which consisted of 20+ amazing developers. Here I created and maintained WisePhone (AOSP) along with system apps such as a launcher, phone, clock, and many more.",
             "website": "https://techless.com/",
@@ -266,6 +286,7 @@
                 "Figma for UX work."
             ]
         },
+        
         {
             "summary": "A Pakistan-based company that specializes in Android applications, With a focus on quality and user experience, One of the company's core strengths is its expertise in App Store Optimization (ASO), By leveraging a deep understanding of the App Store ecosystem and user behavior CUBICODES helps its clients get the most out of their apps and reach a wider audience, Right after joining I worked and completed a few apps that touched 7K+ installs.",
             "website": "https://cubicodes.com/",
@@ -282,6 +303,7 @@
                 "Closely looked at and improved the ASO process."
             ]
         },
+        
         {
             "pinned": true,
             "summary": "Grithx, a Pakistan-based company, is renowned for its child company ZTHosting, and top clients such as Patari and Lahore Qalandars. I started my journey at Grithx as an Android Engineer, where I was able to quickly progress and gain experience working on a variety of projects. During my one-year tenure, I contributed to the success of high-profile projects like Patari, as well as many others.",
@@ -298,6 +320,7 @@
                 "WordPress and created custom integrations with Android."
             ]
         },
+        
         {
             "summary": "During my time at university, I started freelancing which provided me with valuable experience and improved my presentation and client-handling skills. These skills have proven beneficial in various aspects of my life and continue to assist me to this day.",
             "location": "Islamabad",
@@ -313,6 +336,7 @@
                 "Worked on GARMIN devices."
             ]
         },
+        
         {
             "summary": "I began my journey as a Linux Bash scripter and swiftly developed a deep understanding of GARMIN, Android, and iOS. I found a particular passion for Android and Linux, which ultimately led me to become a professional AOSP developer for a period of time.",
             "name": "GitHub - Open Source Contributor",
