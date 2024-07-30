@@ -4,7 +4,7 @@ name: Publish resume in JSONResume format as Github Page
  
 on:
   push:
-    branches: [ main ]
+    branches: [ uk_resume ]
 
 jobs:
   check_run:
@@ -21,7 +21,7 @@ jobs:
       - uses: kelvintaywl/action-jsonresume-export@v1
         name: Export resume as HTML
         with:
-          theme: kendall
+          theme: macchiato
           resume_filepath: resume.json
           # modifies the index.html in-place
           output_filepath: docs/index.html
